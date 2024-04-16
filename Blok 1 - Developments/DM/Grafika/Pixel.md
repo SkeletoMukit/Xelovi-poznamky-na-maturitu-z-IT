@@ -12,25 +12,25 @@ Představuje jeden svítící bod na monitoru, resp. jeden bod obrázku, charakt
 ### Velikost pixelu
 
 - Velikost pixelu záleží na typu monitoru.
-- U obvyklých analogových typů lze velikost pixelu měnit změnou rozlišení.
-- LCD obrazovky mají počet fyzických pixelů (tzv. nativní rozlišení) zpravidla pevně vázaný na používané rozlišení.
+- U obvyklých analogových typů lze velikost pixelu měnit změnou [Rozlišení](Rozlišení.md).
+- LCD obrazovky mají počet fyzických pixelů (tzv. nativní [Rozlišení](Rozlišení.md)) zpravidla pevně vázaný na používané [Rozlišení](Rozlišení.md).
 
 ### Běžná rozlišení obrazovek
 
-- Obrazovky mají rozlišení od zhruba 1280 × 720 (HD) po 3840 × 2160 (4K).
+- Obrazovky mají [Rozlišení](Rozlišení.md) od zhruba 1280 × 720 (HD) po 3840 × 2160 (4K).
 - Velikost jednoho pixelu může být sotva 0,3 mm.
-- Maximální možné rozlišení monitoru se udává v jednotkách „bod na palec“ (zkratka DPI z anglického dots per inch).
+- Maximální možné [Rozlišení](Rozlišení.md) monitoru se udává v jednotkách „bod na palec“ (zkratka DPI z anglického dots per inch).
 
 ## Megapixel
 
 - Jeden megapixel zapisujeme je 1 milión pixelů, tj. bodů.
-- Označuje nejen počet bodů v obrázku, ale také maximální rozlišení digitálního fotoaparátu nebo displeje.
+- Označuje nejen počet bodů v obrázku, ale také maximální [Rozlišení](Rozlišení.md) digitálního fotoaparátu nebo displeje.
 
 ## Rozlišení displeje
 
-- Rozlišení monitoru nebo displeje je počet pixelů, které může být zobrazeno na obrazovce.
+- [Rozlišení](Rozlišení.md) monitoru nebo displeje je počet pixelů, které může být zobrazeno na obrazovce.
 - Často se udává jako počet sloupců (horizontálně, „X“) a počet řádků (vertikálně, „Y“).
-- Nejpoužívanější rozlišení jsou:
+- Nejpoužívanější [Rozlišení](Rozlišení.md) jsou:
 	- 1024×768 (XGA/XVGA, eXtended),
 	- 1280×800 (WXGA, Wide XGA, hlavně u notebooků),
 	- 1366x768 (hlavně u notebooků)
@@ -39,4 +39,4 @@ Představuje jeden svítící bod na monitoru, resp. jeden bod obrázku, charakt
 	- 2560x1440 QHD, QuadHD nebo WQHD
 	- 3440x1440 UWQHD, Ultra-Wide Quad HD
 
-Mnoho uživatelů, zejména uživatelů CADu a hráčů video her, používá rozlišení 1600×1200 (UXGA) nebo vyšší, pokud mají odpovídající zařízení. Pro digitální televizi a HDTV je typické vertikální rozlišení 720 nebo 1080 řádků.
+Mnoho uživatelů, zejména uživatelů CADu a hráčů video her, používá [Rozlišení](Rozlišení.md) 1600×1200 (UXGA) nebo vyšší, pokud mají odpovídající zařízení. Pro digitální televizi a HDTV je typické vertikální [Rozlišení](Rozlišení.md) 720 nebo 1080 řádků.

@@ -1,6 +1,6 @@
 # Grafické formáty
 
-Grafické formáty stanovují pravidla, podle kterých je obrázek uložen v souboru. Některé formáty mohou do souboru ukládat i další informace, např. náhled obrázku v malém rozlišení, informace o expozici, datu a čase pořízení a podobně.
+Grafické formáty stanovují pravidla, podle kterých je obrázek uložen v souboru. Některé formáty mohou do souboru ukládat i další informace, např. náhled obrázku v malém [Rozlišení](Rozlišení.md), informace o expozici, datu a čase pořízení a podobně.
 
 ## Druhy grafických formátů
 

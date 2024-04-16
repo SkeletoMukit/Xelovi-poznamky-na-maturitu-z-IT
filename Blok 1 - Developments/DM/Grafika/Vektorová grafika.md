@@ -6,7 +6,7 @@ Vektorový obrázek je složen ze základních, přesně definovaných útvarů,
 
 - Je v ní možné libovolné zmenšování nebo zvětšování obrázku beze ztráty kvality (viz ukázka v úvodu článku).
 - Je možné pracovat s každým objektem v obrázku odděleně.
-- Výsledná paměťová náročnost obrázku je u jednolitých barevných obrázků menší, než při použití rastrového zápisu (Např. černé kolečko se zapíše jako kruh o daném poloměru vyplněný černou barvou – tedy 3 informace, zatímco u bitmapy by bylo zapotřebí definovat každý pixel zvlášť, přitom pořád dokola téměř stejnou informací – pixel barvy #000000 o souřadnici [x,y], pixel barvy #000000 o souřadnici [x+1,y], pixel barvy #000000 o souřadnici [x+2,y], atd.).
+- Výsledná paměťová náročnost obrázku je u jednolitých barevných obrázků menší, než při použití rastrového zápisu (Např. černé kolečko se zapíše jako kruh o daném poloměru vyplněný černou barvou – tedy 3 informace, zatímco u bitmapy by bylo zapotřebí definovat každý [Pixel](Pixel.md) zvlášť, přitom pořád dokola téměř stejnou informací – [Pixel](Pixel.md) barvy #000000 o souřadnici [x,y], [Pixel](Pixel.md) barvy #000000 o souřadnici [x+1,y], [Pixel](Pixel.md) barvy #000000 o souřadnici [x+2,y], atd.).
 
 ## Nevýhody
 
