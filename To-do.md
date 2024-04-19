@@ -1,4 +1,4 @@
-# To-do list
+# To-do
 
 Úkol - krátký popis úkolu
 

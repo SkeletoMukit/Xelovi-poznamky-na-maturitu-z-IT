@@ -11,7 +11,7 @@ Na Xelatuře se podílý studenti SOSVELu třídy IE4 ročníku 2023/2024. Jsme 
 
 ### To-do
 
-V poznámce [To-do list](To-do%20list.md) se nachází seznam úkolů, které jsou třeba udělat.
+V poznámce [To-do](To-do.md) se nachází seznam úkolů, které jsou třeba udělat.
 
 ### Formátování
 
