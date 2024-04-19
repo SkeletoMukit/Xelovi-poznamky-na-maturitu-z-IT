@@ -1,4 +1,4 @@
-# Xelovi poznámky na maturitu z IT
+# Xelit
 
 **Xel**ovy poznámky z **IT** na maturitu
 
