@@ -54,7 +54,7 @@ export default {
       title: "Table des Matières",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min de lecture`,
+      readingTime: ({ minutes }) => `${minutes} min read`,
     },
   },
   pages: {
