@@ -30,7 +30,6 @@ Přidělenci - kdo pracuje/pracoval na úkolu
 
 | Úkol                | Priorita | Přidělenci |
 | ------------------- | -------- | ---------- |
-| Základní indo o PRG | 1        | Xela       |
 |                     |          |            |
 |                     |          |            |
 |                     |          |            |
@@ -38,11 +37,11 @@ Přidělenci - kdo pracuje/pracoval na úkolu
 
 ## Hotovo
 
-| Úkol    | Priorita | Přidělenci |
-| ------- | -------- | ---------- |
-| Grafika | 1        | Xela       |
-| Audio   | 1        | Xela       |
-|         |          |            |
-|         |          |            |
-|         |          |            |
-|         |          |            |
+| Úkol                | Priorita | Přidělenci |
+| ------------------- | -------- | ---------- |
+| Grafika             | 1        | Xela       |
+| Audio               | 1        | Xela       |
+| Základní indo o PRG | 1        | Xela       |
+|                     |          |            |
+|                     |          |            |
+|                     |          |            |
