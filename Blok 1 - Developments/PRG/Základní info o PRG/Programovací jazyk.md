@@ -102,3 +102,20 @@
 - programování pomocí definic co se dělat má a ne jak se to má dělat
 - Funkcionální
 - Logické
+
+#### Funkcionální jazyky
+
+- vše popisuje pomocí funkcí (často matematických)
+- často neexistují proměnné, program je soustavou funkcí, které pracují se seznamy prvků
+- způsob programování je blízký klasické matematice
+- Zřetězené funkce postupně upravující data
+- Ve velké míře je uplatněna rekurze (funkce volá sama sebe)
+- Př.: Lisp, Haskell, Miranda, ...
+
+#### Logické jazyky
+- popisují daný problém pomocí logických výroků
+- programu zadáme klauzule (pravidla), vztahy a vstupní data, které dále využívá k řešení problému
+- i zde se ve velké míře uplatňuje rekurze
+- používají se k tvorbě umělé inteligence, k praktickému programování nejsou využitelné
+- nejznámější zástupce je jazyk Prolog
+- Př. Program v Prologu pro zjištění většího z čísel
