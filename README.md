@@ -1,13 +1,13 @@
-# Xelit
+# Xelitky
 
-**Xel**ovy poznámky z **IT** na maturitu
+**Xel**ovy  **IT** poznám**ky** na maturitu
 
 - Poznámky z IT na přípravu k maturitě roku 2024
 - Poznámky jsou tvořené v programu Obsidian.
 
 ## Kolaborace
 
-Na Xelitu se podílý studenti SOSVELu třídy IE4 ročníku 2023/2024. Jsme otevřeni pull requestům tady na GitHubu od ostatních lidí.
+Na Xelitkách se podílý studenti SOSVELu třídy IE4 ročníku 2023/2024. Jsme otevřeni pull requestům tady na GitHubu od ostatních lidí.
 
 ### To-do
 
