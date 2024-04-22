@@ -113,6 +113,7 @@
 - Př.: Lisp, Haskell, Miranda, ...
 
 #### Logické jazyky
+
 - popisují daný problém pomocí logických výroků
 - programu zadáme klauzule (pravidla), vztahy a vstupní data, které dále využívá k řešení problému
 - i zde se ve velké míře uplatňuje rekurze
