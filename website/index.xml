@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Xelitky</title>
+      <link>https://xelatura.cz</link>
+      <description>Posledních 10 poznámek on Xelitky</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Xelitky</title>
+    <link>https://xelatura.cz/</link>
+    <guid>https://xelatura.cz/</guid>
+    <description>Xelitky Xelovy IT poznámky na maturitu Poznámky z IT na přípravu k maturitě roku 2024 Poznámky jsou tvořené v programu Obsidian. Kolaborace Na Xelitkách se podílý studenti SOSVELu třídy IE4 ročníku 2023/2024.</description>
+    <pubDate>Tue, 23 Apr 2024 08:39:23 GMT</pubDate>
+  </item><item>
+    <title>Java</title>
+    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Java</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Java</guid>
+    <description>Java vznik v roce 1995 ve společnosti Sun Microsystems pojmenován podle indonéské odrůdy kávy Výhody jazyka Objektově orientovaný Programovací jazyk Zdarma Nezávislý na platformě ...</description>
+    <pubDate>Tue, 23 Apr 2024 08:32:16 GMT</pubDate>
+  </item><item>
+    <title>Programovací jazyk</title>
+    <link>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Programovac%C3%AD-jazyk</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Programovac%C3%AD-jazyk</guid>
+    <description>Programovací jazyk generace kódu Čísla jsou vnímána již jako proměnné, zdrojový kód připomíná matematický zápis → vysoká čitelnost kódu Jazyky dělené podle způsobu překladu a ...</description>
+    <pubDate>Tue, 23 Apr 2024 08:32:16 GMT</pubDate>
+  </item><item>
+    <title>Strojový kód</title>
+    <link>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Strojov%C3%BD-k%C3%B3d</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Strojov%C3%BD-k%C3%B3d</guid>
+    <description>Strojový kód generace kódu tvoří nuly a jedničky - kombinace odpovídají různým instrukcím procesoru Procesor PC vykonává jen omezené množství jednoduchých instrukcí v podobě ...</description>
+    <pubDate>Mon, 22 Apr 2024 10:55:07 GMT</pubDate>
+  </item><item>
+    <title>To-do</title>
+    <link>https://xelatura.cz/To-do</link>
+    <guid>https://xelatura.cz/To-do</guid>
+    <description>To-do Úkol - krátký popis úkolu Priorita - priorita splnění úkolu: Nejvyšší priorita, je třeba udělat co nejdříve Střední priorita Nejmenší priorita, dělat až jako poslední Přidělenci ...</description>
+    <pubDate>Mon, 22 Apr 2024 10:18:23 GMT</pubDate>
+  </item><item>
+    <title>Syntax a sématika</title>
+    <link>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Syntax-a-s%C3%A9matika</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Syntax-a-s%C3%A9matika</guid>
+    <description>Syntaxe a sémantika jazyka Syntaxe Souhrn pravidel udávajících přípustné tvary dílčích konstrukcí a celého programu Jednodušší na odhalení → většina pokročilejších programovacích ...</description>
+    <pubDate>Mon, 22 Apr 2024 10:14:36 GMT</pubDate>
+  </item><item>
+    <title>Assembler</title>
+    <link>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Assembler</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Assembler</guid>
+    <description>Assembler Zkráceně označováno ASM Assembler = jazyk symbolických adres generace kódu Úzce svázaný se strojovým kódem Každá instrukce (kombinace 0 a 1) strojového kódu má odpovídající ...</description>
+    <pubDate>Fri, 19 Apr 2024 07:48:54 GMT</pubDate>
+  </item><item>
+    <title>Databáze okruhy - výklad od AD</title>
+    <link>https://xelatura.cz/Datab%C3%A1ze-okruhy---v%C3%BDklad-od-AD</link>
+    <guid>https://xelatura.cz/Datab%C3%A1ze-okruhy---v%C3%BDklad-od-AD</guid>
+    <description>Databáze okruhy - výklad od AD Entity, atributy, relace DMM create_database drop_database create_table drop_table alter_table create_index Atributy - DDL intager - celočislo ...</description>
+    <pubDate>Wed, 17 Apr 2024 05:57:28 GMT</pubDate>
+  </item><item>
+    <title>Barevný model</title>
+    <link>https://xelatura.cz/Blok-1---Developments/DM/Grafika/Barevn%C3%BD-model</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/DM/Grafika/Barevn%C3%BD-model</guid>
+    <description>Barevný model Barevný model je matematický model popisující barvy na základě podílu jednotlivých složek, kterými mohou být vybrané základní barvy nebo jiné parametry ...</description>
+    <pubDate>Wed, 17 Apr 2024 05:33:23 GMT</pubDate>
+  </item><item>
+    <title>Grafické Formáty</title>
+    <link>https://xelatura.cz/Blok-1---Developments/DM/Grafika/Grafick%C3%A9-Form%C3%A1ty</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/DM/Grafika/Grafick%C3%A9-Form%C3%A1ty</guid>
+    <description>Grafické formáty Grafické formáty stanovují pravidla, podle kterých je obrázek uložen v souboru. Některé formáty mohou do souboru ukládat i další informace, např.</description>
+    <pubDate>Wed, 17 Apr 2024 05:33:23 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

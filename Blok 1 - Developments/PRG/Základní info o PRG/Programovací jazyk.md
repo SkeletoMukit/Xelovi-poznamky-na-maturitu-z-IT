@@ -63,9 +63,9 @@
 
 - Propojením pozitivních vlastností kompilovaných a interpretovaných jazyků vzniká tzv. virtuální stroj
 - V současnosti nejmodernější podoba jazyka pro vývoj aplikací
-- Příklady jazyků: Java, C#
+- Příklady jazyků: [Java](Java.md), C#
 - Zdrojový kód je kompilátorem přeložen do tzv. mezikódu = bajt-kódu (bytecode) – Tj. strojový (binární) kód, který přímo podporuje objektové programování
-- Tento bajt-kód je interpretovaný tzv. virtuálním strojem (tj. interpretem = JVM = Java Virtual Machine) do strojového kódu, který procesor vykoná
+- Tento bajt-kód je interpretovaný tzv. virtuálním strojem (tj. interpretem = JVM = [Java](Java.md) Virtual Machine) do strojového kódu, který procesor vykoná
 
 #### Výhody
 
@@ -82,7 +82,7 @@
 
 ## Nižší a Vyšší programovací jazyky
 
-- Do skupiny vyšších jazyků dnes v podstatě patří všechny jazyky kromě Assembler a strojového kódu
+- Do skupiny vyšších jazyků dnes v podstatě patří všechny jazyky kromě [Assembler](Assembler.md) a strojového kódu
 
 ## Procedurální a Neprocedurální programovací jazyky
 
@@ -91,7 +91,7 @@
 - popisuje výpočet pomocí posloupností příkazů a určuje přesný postup (algoritmus), jak danou úlohu řešit
 - Strukturované
 - Objektově orientované
-- Př.: C, C++, C#, Java, Python, ...
+- Př.: C, C++, C#, [Java](Java.md), Python, ...
 - Zpracovávané údaje mají formu datových objektů různých typů, které jsou v programu reprezentovány pomocí proměnných resp. konstant
 - Program obsahuje deklarace a příkazy
 - Deklarace definují význam jmen (identifikátorů)
