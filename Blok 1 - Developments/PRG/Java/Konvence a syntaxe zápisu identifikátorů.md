@@ -1,7 +1,7 @@
 # Konvence a syntaxe zápisu identifikátorů
 
-- Java důsledně rozlišuje malá a velká písmena! (case sensitive)
-	- Př. `prvni.java` není to samé jako `Prvni.java`
+- [Java](Java.md) důsledně rozlišuje malá a velká písmena! (case sensitive)
+	- Př. `prvni.[Java](Java.md)` není to samé jako `Prvni.[Java](Java.md)`
 - identifikátor musí začínat písmenem, podtržítkem nebo $
 	- (pozn.: ale poslední dvě jmenované nedoporučuji)
 - Názvy nesmí obsahovat diakritiku a mezeru
@@ -17,14 +17,14 @@
 - Třídy a rozhraní
 	- Začíná vždy velkým písmenem a ostatní písmena jsou malá (př. `String`)
 	- Třída se musí jmenovat stejně jako soubor, ve kterém je uložena!
-- Metody a proměnné
+- Metody a [Proměnné](Proměnné.md)
 	- Začíná malým písmenem (př. `pocet`, `start()`)
-	- Metoda se od proměnné liší tím, že metody mají za jménem uvedeny vždy kulaté závorky
+	- Metoda se od [Proměnné](Proměnné.md) liší tím, že metody mají za jménem uvedeny vždy kulaté závorky
 - Konstanty
 	- Pouze velká písmena, ve víceslovných je oddělovačem podtržítko (př. `PI`, `MAX_VALUE`)
 - Balíky
 	- Pouze malá písmena, ve složených názvech je oddělovačem tečka (př.
-`java.util`)
+`[Java](Java.md).util`)
 
 ***
 

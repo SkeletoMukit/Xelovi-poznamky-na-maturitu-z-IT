@@ -1,7 +1,7 @@
 # Programovací jazyk
 
 - 3. generace kódu
-- Čísla jsou vnímána již jako proměnné, zdrojový kód připomíná matematický zápis → vysoká čitelnost kódu
+- Čísla jsou vnímána již jako [Proměnné](Proměnné.md), zdrojový kód připomíná matematický zápis → vysoká čitelnost kódu
 - Jazyky dělené podle způsobu překladu a spuštění (toto členění není absolutní):
 	- Kompilované jazyky
 	- Interpretované jazyky
@@ -45,7 +45,7 @@
 	- Plně přenositelný na různé platformy, pokud existuje vhodný interpret
 - Jednodušší vývoj
 	- Nemusíme hlídat správu paměti
-	- Někdy nemusíme hlídat ani datové typy
+	- Někdy nemusíme hlídat ani [Datové typy](Datové%20typy.md)
 - Stabilita
 	- Předchází chybám, které by zkompilovaný program jinak klidně vykonal
 - Jednoduchá editace
@@ -106,7 +106,7 @@
 #### Funkcionální jazyky
 
 - vše popisuje pomocí funkcí (často matematických)
-- často neexistují proměnné, program je soustavou funkcí, které pracují se seznamy prvků
+- často neexistují [Proměnné](Proměnné.md), program je soustavou funkcí, které pracují se seznamy prvků
 - způsob programování je blízký klasické matematice
 - Zřetězené funkce postupně upravující data
 - Ve velké míře je uplatněna rekurze (funkce volá sama sebe)

@@ -89,7 +89,7 @@ String s = "Odpověď je " + x;   //vytvori retezec Odpověď je 42
 
 ## Přetypování
 
-- Proměnné lze přiřadit pouze hodnotu stejného typu
+- [Proměnné](Proměnné.md) lze přiřadit pouze hodnotu stejného typu
 - Chceme-li přiřadit jiný typ, je nutné přetypování (typová konverze)
 - Jméno datového typu zapisujeme do kulatých závorek před proměnnou, kterou chceme přetypovat
 ```java
