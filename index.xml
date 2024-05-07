@@ -6,65 +6,65 @@
       <description>Posledních 10 poznámek on Xelitky</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Xelitky</title>
-    <link>https://xelatura.cz/</link>
-    <guid>https://xelatura.cz/</guid>
-    <description>Xelitky Xelovy IT poznámky na maturitu Poznámky z IT na přípravu k maturitě roku 2024 Poznámky jsou tvořené v programu Obsidian. Kolaborace Na Xelitkách se podílý studenti SOSVELu třídy IE4 ročníku 2023/2024.</description>
-    <pubDate>Tue, 07 May 2024 23:04:12 GMT</pubDate>
+    <title>Info</title>
+    <link>https://xelatura.cz/Blok-2---Operations/ELPO/Info</link>
+    <guid>https://xelatura.cz/Blok-2---Operations/ELPO/Info</guid>
+    <description></description>
+    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
   </item><item>
-    <title>Datové typy</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Datov%C3%A9-typy</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Datov%C3%A9-typy</guid>
-    <description>Datové typy Javovské typy se dělí na dvě skupiny: Primitivní (neobjektový přístup) Celočíselné Reálné Znakové Logické Referenční (objektový přístup) Řetězce Primitivní datové ...</description>
-    <pubDate>Tue, 07 May 2024 22:51:55 GMT</pubDate>
+    <title>Info</title>
+    <link>https://xelatura.cz/Blok-2---Operations/OS/Info</link>
+    <guid>https://xelatura.cz/Blok-2---Operations/OS/Info</guid>
+    <description></description>
+    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
   </item><item>
-    <title>Proměnné</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Prom%C4%9Bnn%C3%A9</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Prom%C4%9Bnn%C3%A9</guid>
-    <description>Proměnné Proměnná je pojmenované místo v paměti Slouží k uchování hodnoty za běhu programu Každá proměnná má jméno a datový typ Pomocí jména se na proměnnou odkazujeme Datový typ ...</description>
-    <pubDate>Tue, 07 May 2024 22:31:09 GMT</pubDate>
+    <title>Info</title>
+    <link>https://xelatura.cz/Blok-2---Operations/S%C3%8DT%C4%9A/Info</link>
+    <guid>https://xelatura.cz/Blok-2---Operations/S%C3%8DT%C4%9A/Info</guid>
+    <description></description>
+    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
   </item><item>
-    <title>Komentáře</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Koment%C3%A1%C5%99e</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Koment%C3%A1%C5%99e</guid>
-    <description>Komentáře Pomáhají vyznat se ve zdrojovém kódu Doporučení – komentovat ihned při vytváření úseků kódů, ne „až na to někdy budu mít čas“ V Javě máme 3 typy Jednořádkový Začíná // a platnost ...</description>
-    <pubDate>Tue, 07 May 2024 22:12:45 GMT</pubDate>
-  </item><item>
-    <title>Hlavní program</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Hlavn%C3%AD-program</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Hlavn%C3%AD-program</guid>
-    <description>Hlavní program Tvoří hlavní metoda main() Po spuštění programu je vyvolána jako první Musí se vždy takto jmenovat a musí být v programu vždy uvedena Musí být umístěna v nějaké třídě, ...</description>
-    <pubDate>Tue, 07 May 2024 19:44:07 GMT</pubDate>
-  </item><item>
-    <title>Konvence a syntaxe zápisu identifikátorů</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Konvence-a-syntaxe-z%C3%A1pisu-identifik%C3%A1tor%C5%AF</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Konvence-a-syntaxe-z%C3%A1pisu-identifik%C3%A1tor%C5%AF</guid>
-    <description>Konvence a syntaxe zápisu identifikátorů Java důsledně rozlišuje malá a velká písmena! (case sensitive) Př. prvni.java není to samé jako Prvni.java identifikátor musí začínat písmenem, podtržítkem nebo $ (pozn.: ale poslední dvě jmenované nedoporučuji) Názvy nesmí obsahovat diakritiku a mezeru Pokud název tvoří více slov, začíná každé slovo velkým písmenem kvůli lepší čitelnosti Př.</description>
-    <pubDate>Tue, 07 May 2024 19:19:49 GMT</pubDate>
-  </item><item>
-    <title>Java</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Java</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Java</guid>
-    <description>Java vznik v roce 1995 ve společnosti Sun Microsystems pojmenován podle indonéské odrůdy kávy Výhody jazyka Objektově orientovaný Programovací jazyk Zdarma Nezávislý na platformě ...</description>
-    <pubDate>Tue, 23 Apr 2024 14:05:29 GMT</pubDate>
-  </item><item>
-    <title>Programovací jazyk</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Programovac%C3%AD-jazyk</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Programovac%C3%AD-jazyk</guid>
-    <description>Programovací jazyk generace kódu Čísla jsou vnímána již jako proměnné, zdrojový kód připomíná matematický zápis → vysoká čitelnost kódu Jazyky dělené podle způsobu překladu a ...</description>
-    <pubDate>Tue, 23 Apr 2024 14:05:29 GMT</pubDate>
-  </item><item>
-    <title>Syntax a sématika</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Syntax-a-s%C3%A9matika</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Syntax-a-s%C3%A9matika</guid>
-    <description>Syntaxe a sémantika jazyka Syntaxe Souhrn pravidel udávajících přípustné tvary dílčích konstrukcí a celého programu Jednodušší na odhalení → většina pokročilejších programovacích ...</description>
-    <pubDate>Tue, 23 Apr 2024 14:05:29 GMT</pubDate>
+    <title>Databáze okruhy - výklad od AD</title>
+    <link>https://xelatura.cz/Datab%C3%A1ze-okruhy---v%C3%BDklad-od-AD</link>
+    <guid>https://xelatura.cz/Datab%C3%A1ze-okruhy---v%C3%BDklad-od-AD</guid>
+    <description>Databáze okruhy - výklad od AD Entity, atributy, relace DMM create_database drop_database create_table drop_table alter_table create_index Atributy - DDL intager - celočislo ...</description>
+    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
   </item><item>
     <title>To-do</title>
     <link>https://xelatura.cz/To-do</link>
     <guid>https://xelatura.cz/To-do</guid>
     <description>To-do Úkol - krátký popis úkolu Priorita - priorita splnění úkolu: Nejvyšší priorita, je třeba udělat co nejdříve Střední priorita Nejmenší priorita, dělat až jako poslední Přidělenci ...</description>
-    <pubDate>Tue, 23 Apr 2024 14:05:29 GMT</pubDate>
+    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
+  </item><item>
+    <title>Xelitky</title>
+    <link>https://xelatura.cz/</link>
+    <guid>https://xelatura.cz/</guid>
+    <description>Xelitky Xelovy IT poznámky na maturitu Poznámky z IT na přípravu k maturitě roku 2024 Poznámky jsou tvořené v programu Obsidian. Kolaborace Na Xelitkách se podílý studenti SOSVELu třídy IE4 ročníku 2023/2024.</description>
+    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
+  </item><item>
+    <title>Datové typy</title>
+    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Datov%C3%A9-typy</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Datov%C3%A9-typy</guid>
+    <description>Datové typy Javovské typy se dělí na dvě skupiny: Primitivní (neobjektový přístup) Celočíselné Reálné Znakové Logické Referenční (objektový přístup) Řetězce Primitivní datové ...</description>
+    <pubDate>Tue, 07 May 2024 23:13:14 GMT</pubDate>
+  </item><item>
+    <title>Konvence a syntaxe zápisu identifikátorů</title>
+    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Konvence-a-syntaxe-z%C3%A1pisu-identifik%C3%A1tor%C5%AF</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Konvence-a-syntaxe-z%C3%A1pisu-identifik%C3%A1tor%C5%AF</guid>
+    <description>Konvence a syntaxe zápisu identifikátorů Java důsledně rozlišuje malá a velká písmena! (case sensitive) Př. prvni.[Java](Java.md) není to samé jako Prvni.[Java](Java.md) identifikátor musí začínat písmenem, podtržítkem nebo $ (pozn.: ale poslední dvě jmenované nedoporučuji) Názvy nesmí obsahovat diakritiku a mezeru Pokud název tvoří více slov, začíná každé slovo velkým písmenem kvůli lepší čitelnosti Př.</description>
+    <pubDate>Tue, 07 May 2024 23:13:14 GMT</pubDate>
+  </item><item>
+    <title>Programovací jazyk</title>
+    <link>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Programovac%C3%AD-jazyk</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Programovac%C3%AD-jazyk</guid>
+    <description>Programovací jazyk generace kódu Čísla jsou vnímána již jako Proměnné, zdrojový kód připomíná matematický zápis → vysoká čitelnost kódu Jazyky dělené podle způsobu překladu a ...</description>
+    <pubDate>Tue, 07 May 2024 23:13:14 GMT</pubDate>
+  </item><item>
+    <title>Info</title>
+    <link>https://xelatura.cz/Blok-1---Developments/DM/CSS/Info</link>
+    <guid>https://xelatura.cz/Blok-1---Developments/DM/CSS/Info</guid>
+    <description></description>
+    <pubDate>Tue, 07 May 2024 23:05:52 GMT</pubDate>
   </item>
     </channel>
   </rss>
