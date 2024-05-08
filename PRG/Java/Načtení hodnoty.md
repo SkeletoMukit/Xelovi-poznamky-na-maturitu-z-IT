@@ -1,9 +1,9 @@
 # Načtení hodnoty
 
 - Existuje více způsobů načtení dat, jedna z možností:
-- Načtení hodnoty typu `double` zajistí metoda `nextDouble();`
-- Načtení hodnoty typu `int` zajistí metoda `nextInt();`
-- Načtení hodnoty typu `String` zajistí metoda `nextLine();`
+  - Načtení hodnoty typu `double` zajistí metoda `nextDouble();`
+  - Načtení hodnoty typu `int` zajistí metoda `nextInt();`
+  - Načtení hodnoty typu `String` zajistí metoda `nextLine();`
 
 ```java
 Scanner sc = new Scanner(System.in);
