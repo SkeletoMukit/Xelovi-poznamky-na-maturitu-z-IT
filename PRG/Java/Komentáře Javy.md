@@ -1,4 +1,4 @@
-# Komentáře
+# Komentáře Javy
 
 - Pomáhají vyznat se ve zdrojovém kódu
 - Doporučení – komentovat ihned při vytváření úseků kódů, ne „až na to někdy budu mít čas“

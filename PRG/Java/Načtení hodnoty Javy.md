@@ -1,4 +1,4 @@
-# Načtení hodnoty
+# Načtení hodnoty Javy
 
 - Existuje více způsobů načtení dat, jedna z možností:
   - Načtení hodnoty typu `double` zajistí metoda `nextDouble();`

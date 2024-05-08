@@ -1,4 +1,4 @@
-# Datové typy
+# Datové typy Javy
 
 - Javovské typy se dělí na dvě skupiny:
 -  Primitivní (neobjektový přístup)
@@ -89,7 +89,7 @@ String s = "Odpověď je " + x;   //vytvori retezec Odpověď je 42
 
 ## Přetypování
 
-- [Proměnné](Proměnné.md) lze přiřadit pouze hodnotu stejného typu
+- [Proměnné Javy](Proměnné%20Javy.md) lze přiřadit pouze hodnotu stejného typu
 - Chceme-li přiřadit jiný typ, je nutné přetypování (typová konverze)
 - Jméno datového typu zapisujeme do kulatých závorek před proměnnou, kterou chceme přetypovat
 ```java

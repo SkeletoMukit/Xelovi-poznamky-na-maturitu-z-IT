@@ -1,4 +1,4 @@
-# Terminálový výstup
+# Terminálový výstup Javy
 
 - Tisk provede metoda `System.out.print();`
 ```java

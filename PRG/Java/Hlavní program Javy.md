@@ -1,4 +1,4 @@
-# Hlavní program
+# Hlavní program Javy
 
 - Tvoří hlavní metoda `main()`
 -  Po spuštění programu je vyvolána jako první

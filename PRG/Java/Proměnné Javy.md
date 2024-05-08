@@ -1,4 +1,4 @@
-# Proměnné
+# Proměnné Javy
 
 - Proměnná je pojmenované místo v paměti
 - Slouží k uchování hodnoty za běhu programu
@@ -6,7 +6,7 @@
 	- Pomocí jména se na proměnnou odkazujeme
 	- Datový typ udává, jaké hodnoty můžeme do proměnné ukládat (př. reálná čísla, řetězce, ...)
 
-![](promene_pamet.png)
+![](promenne_pamet.png)
 
 ## Zápis
 
