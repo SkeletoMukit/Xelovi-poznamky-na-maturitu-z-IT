@@ -60,7 +60,7 @@ int j = 1;
 
 ## Operátor přiřazení
 
-•Pozor na následující terminologii
+- Pozor na následující terminologii
 
 | Výraz     | i * 2 + 3        |
 | --------- | ---------------- |

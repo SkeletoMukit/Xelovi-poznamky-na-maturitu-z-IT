@@ -1,7 +1,7 @@
 # Konvence a syntaxe zápisu identifikátorů
 
 - [Java](Java.md) důsledně rozlišuje malá a velká písmena! (case sensitive)
-	- Př. `prvni.[Java](Java.md)` není to samé jako `Prvni.[Java](Java.md)`
+	- Př. `prvni.java` není to samé jako `Prvni.java`
 - identifikátor musí začínat písmenem, podtržítkem nebo $
 	- (pozn.: ale poslední dvě jmenované nedoporučuji)
 - Názvy nesmí obsahovat diakritiku a mezeru
@@ -24,7 +24,7 @@
 	- Pouze velká písmena, ve víceslovných je oddělovačem podtržítko (př. `PI`, `MAX_VALUE`)
 - Balíky
 	- Pouze malá písmena, ve složených názvech je oddělovačem tečka (př.
-`[Java](Java.md).util`)
+`java.util`)
 
 ***
 

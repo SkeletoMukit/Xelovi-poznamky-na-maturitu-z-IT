@@ -21,5 +21,5 @@ i++;
 ```
 - Dokumentační
 	- Začíná znaky ```/**``` a končí znaky ```*/``` 
-	- Používá se pro automatické generování dokumentace programem *javadoc.exe*
+	- Používá se pro automatické generování dokumentace programem `javadoc.exe`
 

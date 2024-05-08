@@ -25,7 +25,7 @@
 ### Reálné datové typy
 
 - Jako desetinný separátor se vždy používá tečka!
-- Při použití typu float musíme ve zdrojovém kódu psát sufix F
+- Při použití typu `float` musíme ve zdrojovém kódu psát sufix `F`
 ```java
 float f = 3.14F;
 ```
