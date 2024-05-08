@@ -6,65 +6,65 @@
       <description>Posledních 10 poznámek on Xelitky</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Info</title>
-    <link>https://xelatura.cz/Blok-2---Operations/ELPO/Info</link>
-    <guid>https://xelatura.cz/Blok-2---Operations/ELPO/Info</guid>
-    <description></description>
-    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
+    <title>Načtení hodnoty</title>
+    <link>https://xelatura.cz/PRG/Java/Na%C4%8Dten%C3%AD-hodnoty</link>
+    <guid>https://xelatura.cz/PRG/Java/Na%C4%8Dten%C3%AD-hodnoty</guid>
+    <description>Načtení hodnoty Existuje více způsobů načtení dat, jedna z možností: Načtení hodnoty typu double zajistí metoda nextDouble(); Načtení hodnoty typu int zajistí metoda nextInt(); ...</description>
+    <pubDate>Wed, 08 May 2024 15:44:51 GMT</pubDate>
   </item><item>
-    <title>Info</title>
-    <link>https://xelatura.cz/Blok-2---Operations/OS/Info</link>
-    <guid>https://xelatura.cz/Blok-2---Operations/OS/Info</guid>
-    <description></description>
-    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
+    <title>Terminálový výstup</title>
+    <link>https://xelatura.cz/PRG/Java/Termin%C3%A1lov%C3%BD-v%C3%BDstup</link>
+    <guid>https://xelatura.cz/PRG/Java/Termin%C3%A1lov%C3%BD-v%C3%BDstup</guid>
+    <description>Terminálový výstup Tisk provede metoda System.out.print(); int i = 5; System.out.print(i); //vytiskne hodnotu 5 Pokud chceme vytisknout více proměnných nebo i nějaký řetězec ...</description>
+    <pubDate>Wed, 08 May 2024 15:41:34 GMT</pubDate>
   </item><item>
-    <title>Info</title>
-    <link>https://xelatura.cz/Blok-2---Operations/S%C3%8DT%C4%9A/Info</link>
-    <guid>https://xelatura.cz/Blok-2---Operations/S%C3%8DT%C4%9A/Info</guid>
-    <description></description>
-    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
-  </item><item>
-    <title>Databáze okruhy - výklad od AD</title>
-    <link>https://xelatura.cz/Datab%C3%A1ze-okruhy---v%C3%BDklad-od-AD</link>
-    <guid>https://xelatura.cz/Datab%C3%A1ze-okruhy---v%C3%BDklad-od-AD</guid>
-    <description>Databáze okruhy - výklad od AD Entity, atributy, relace DMM create_database drop_database create_table drop_table alter_table create_index Atributy - DDL intager - celočislo ...</description>
-    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
-  </item><item>
-    <title>To-do</title>
-    <link>https://xelatura.cz/To-do</link>
-    <guid>https://xelatura.cz/To-do</guid>
-    <description>To-do Úkol - krátký popis úkolu Priorita - priorita splnění úkolu: Nejvyšší priorita, je třeba udělat co nejdříve Střední priorita Nejmenší priorita, dělat až jako poslední Přidělenci ...</description>
-    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
-  </item><item>
-    <title>Xelitky</title>
-    <link>https://xelatura.cz/</link>
-    <guid>https://xelatura.cz/</guid>
-    <description>Xelitky Xelovy IT poznámky na maturitu Poznámky z IT na přípravu k maturitě roku 2024 Poznámky jsou tvořené v programu Obsidian. Kolaborace Na Xelitkách se podílý studenti SOSVELu třídy IE4 ročníku 2023/2024.</description>
-    <pubDate>Tue, 07 May 2024 23:18:17 GMT</pubDate>
+    <title>Komentáře</title>
+    <link>https://xelatura.cz/PRG/Java/Koment%C3%A1%C5%99e</link>
+    <guid>https://xelatura.cz/PRG/Java/Koment%C3%A1%C5%99e</guid>
+    <description>Komentáře Pomáhají vyznat se ve zdrojovém kódu Doporučení – komentovat ihned při vytváření úseků kódů, ne „až na to někdy budu mít čas“ V Javě máme 3 typy Jednořádkový Začíná // a platnost ...</description>
+    <pubDate>Wed, 08 May 2024 14:04:00 GMT</pubDate>
   </item><item>
     <title>Datové typy</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Datov%C3%A9-typy</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Datov%C3%A9-typy</guid>
+    <link>https://xelatura.cz/PRG/Java/Datov%C3%A9-typy</link>
+    <guid>https://xelatura.cz/PRG/Java/Datov%C3%A9-typy</guid>
     <description>Datové typy Javovské typy se dělí na dvě skupiny: Primitivní (neobjektový přístup) Celočíselné Reálné Znakové Logické Referenční (objektový přístup) Řetězce Primitivní datové ...</description>
-    <pubDate>Tue, 07 May 2024 23:13:14 GMT</pubDate>
+    <pubDate>Wed, 08 May 2024 10:48:41 GMT</pubDate>
+  </item><item>
+    <title>Proměnné</title>
+    <link>https://xelatura.cz/PRG/Java/Prom%C4%9Bnn%C3%A9</link>
+    <guid>https://xelatura.cz/PRG/Java/Prom%C4%9Bnn%C3%A9</guid>
+    <description>Proměnné Proměnná je pojmenované místo v paměti Slouží k uchování hodnoty za běhu programu Každá proměnná má jméno a datový typ Pomocí jména se na proměnnou odkazujeme Datový typ ...</description>
+    <pubDate>Wed, 08 May 2024 10:47:50 GMT</pubDate>
   </item><item>
     <title>Konvence a syntaxe zápisu identifikátorů</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Java/Konvence-a-syntaxe-z%C3%A1pisu-identifik%C3%A1tor%C5%AF</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Java/Konvence-a-syntaxe-z%C3%A1pisu-identifik%C3%A1tor%C5%AF</guid>
-    <description>Konvence a syntaxe zápisu identifikátorů Java důsledně rozlišuje malá a velká písmena! (case sensitive) Př. prvni.[Java](Java.md) není to samé jako Prvni.[Java](Java.md) identifikátor musí začínat písmenem, podtržítkem nebo $ (pozn.: ale poslední dvě jmenované nedoporučuji) Názvy nesmí obsahovat diakritiku a mezeru Pokud název tvoří více slov, začíná každé slovo velkým písmenem kvůli lepší čitelnosti Př.</description>
-    <pubDate>Tue, 07 May 2024 23:13:14 GMT</pubDate>
-  </item><item>
-    <title>Programovací jazyk</title>
-    <link>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Programovac%C3%AD-jazyk</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Programovac%C3%AD-jazyk</guid>
-    <description>Programovací jazyk generace kódu Čísla jsou vnímána již jako Proměnné, zdrojový kód připomíná matematický zápis → vysoká čitelnost kódu Jazyky dělené podle způsobu překladu a ...</description>
-    <pubDate>Tue, 07 May 2024 23:13:14 GMT</pubDate>
+    <link>https://xelatura.cz/PRG/Java/Konvence-a-syntaxe-z%C3%A1pisu-identifik%C3%A1tor%C5%AF</link>
+    <guid>https://xelatura.cz/PRG/Java/Konvence-a-syntaxe-z%C3%A1pisu-identifik%C3%A1tor%C5%AF</guid>
+    <description>Konvence a syntaxe zápisu identifikátorů Java důsledně rozlišuje malá a velká písmena! (case sensitive) Př. prvni.java není to samé jako Prvni.java identifikátor musí začínat písmenem, podtržítkem nebo $ (pozn.: ale poslední dvě jmenované nedoporučuji) Názvy nesmí obsahovat diakritiku a mezeru Pokud název tvoří více slov, začíná každé slovo velkým písmenem kvůli lepší čitelnosti Př.</description>
+    <pubDate>Wed, 08 May 2024 10:47:22 GMT</pubDate>
   </item><item>
     <title>Info</title>
-    <link>https://xelatura.cz/Blok-1---Developments/DM/CSS/Info</link>
-    <guid>https://xelatura.cz/Blok-1---Developments/DM/CSS/Info</guid>
+    <link>https://xelatura.cz/DM/CSS/Info</link>
+    <guid>https://xelatura.cz/DM/CSS/Info</guid>
     <description></description>
-    <pubDate>Tue, 07 May 2024 23:05:52 GMT</pubDate>
+    <pubDate>Tue, 07 May 2024 23:21:37 GMT</pubDate>
+  </item><item>
+    <title>Barevný model</title>
+    <link>https://xelatura.cz/DM/Grafika/Barevn%C3%BD-model</link>
+    <guid>https://xelatura.cz/DM/Grafika/Barevn%C3%BD-model</guid>
+    <description>Barevný model Barevný model je matematický model popisující barvy na základě podílu jednotlivých složek, kterými mohou být vybrané základní barvy nebo jiné parametry ...</description>
+    <pubDate>Tue, 07 May 2024 23:21:37 GMT</pubDate>
+  </item><item>
+    <title>Grafické Formáty</title>
+    <link>https://xelatura.cz/DM/Grafika/Grafick%C3%A9-Form%C3%A1ty</link>
+    <guid>https://xelatura.cz/DM/Grafika/Grafick%C3%A9-Form%C3%A1ty</guid>
+    <description>Grafické formáty Grafické formáty stanovují pravidla, podle kterých je obrázek uložen v souboru. Některé formáty mohou do souboru ukládat i další informace, např.</description>
+    <pubDate>Tue, 07 May 2024 23:21:37 GMT</pubDate>
+  </item><item>
+    <title>Pixel</title>
+    <link>https://xelatura.cz/DM/Grafika/Pixel</link>
+    <guid>https://xelatura.cz/DM/Grafika/Pixel</guid>
+    <description>Pixel picture element Představuje jeden svítící bod na monitoru, resp. jeden bod obrázku, charakterizovaný jasem a barvou, např. ve formátu RGB či CMYK.</description>
+    <pubDate>Tue, 07 May 2024 23:21:37 GMT</pubDate>
   </item>
     </channel>
   </rss>
