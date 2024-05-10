@@ -1,4 +1,4 @@
-# Podmínky Javy
+# If... Else Javy
 
 Pomocí podmínek můžete provádět různé akce pro různá rozhodnutí.
 

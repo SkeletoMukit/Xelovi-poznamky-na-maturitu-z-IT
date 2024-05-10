@@ -4,7 +4,7 @@ Operátory se používají k provádění operací na proměnných a hodnotách.
 
 ## Aritmetické operátory
 
-Aeritmetické operátory se používají k provádění běžných matematických operací. 
+Aritmetické operátory se používají k provádění běžných matematických operací. 
 
 | Operátor | Název        | Popis                         | Příklad |
 | -------- | ------------ | ----------------------------- | ------- |
