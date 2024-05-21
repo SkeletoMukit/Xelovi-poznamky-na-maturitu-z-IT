@@ -6,65 +6,65 @@
       <description>Posledních 10 poznámek on Xelitky</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Načtení hodnoty</title>
-    <link>https://xelatura.cz/PRG/Java/Na%C4%8Dten%C3%AD-hodnoty</link>
-    <guid>https://xelatura.cz/PRG/Java/Na%C4%8Dten%C3%AD-hodnoty</guid>
-    <description>Načtení hodnoty Existuje více způsobů načtení dat, jedna z možností: Načtení hodnoty typu double zajistí metoda nextDouble(); Načtení hodnoty typu int zajistí metoda nextInt(); ...</description>
-    <pubDate>Wed, 08 May 2024 15:44:51 GMT</pubDate>
+    <title>Xelitky</title>
+    <link>https://xelatura.cz/</link>
+    <guid>https://xelatura.cz/</guid>
+    <description>Xelitky Xelovy IT poznámky na maturitu Poznámky z IT na přípravu k maturitě roku 2024 Poznámky jsou tvořené v programu Obsidian.</description>
+    <pubDate>Tue, 21 May 2024 21:54:52 GMT</pubDate>
   </item><item>
-    <title>Terminálový výstup</title>
-    <link>https://xelatura.cz/PRG/Java/Termin%C3%A1lov%C3%BD-v%C3%BDstup</link>
-    <guid>https://xelatura.cz/PRG/Java/Termin%C3%A1lov%C3%BD-v%C3%BDstup</guid>
-    <description>Terminálový výstup Tisk provede metoda System.out.print(); int i = 5; System.out.print(i); //vytiskne hodnotu 5 Pokud chceme vytisknout více proměnných nebo i nějaký řetězec ...</description>
-    <pubDate>Wed, 08 May 2024 15:41:34 GMT</pubDate>
+    <title>Switch Javy</title>
+    <link>https://xelatura.cz/PRG/Java/Switch-Javy</link>
+    <guid>https://xelatura.cz/PRG/Java/Switch-Javy</guid>
+    <description>Switch Javy Místo psaní mnoha příkazů if..else můžete použít příkaz switch. Příkaz switch vybere jeden z mnoha bloků kódu, který se má provést: Syntaxe switch(výraz) { case x: // blok kódu break; case y: // blok kódu break; výchozí: // blok kódu } Takto to funguje: Výraz switch se vyhodnotí jednou.</description>
+    <pubDate>Tue, 21 May 2024 21:54:10 GMT</pubDate>
   </item><item>
-    <title>Komentáře</title>
-    <link>https://xelatura.cz/PRG/Java/Koment%C3%A1%C5%99e</link>
-    <guid>https://xelatura.cz/PRG/Java/Koment%C3%A1%C5%99e</guid>
-    <description>Komentáře Pomáhají vyznat se ve zdrojovém kódu Doporučení – komentovat ihned při vytváření úseků kódů, ne „až na to někdy budu mít čas“ V Javě máme 3 typy Jednořádkový Začíná // a platnost ...</description>
-    <pubDate>Wed, 08 May 2024 14:04:00 GMT</pubDate>
+    <title>Terminálový výstup Javy</title>
+    <link>https://xelatura.cz/PRG/Java/Termin%C3%A1lov%C3%BD-v%C3%BDstup-Javy</link>
+    <guid>https://xelatura.cz/PRG/Java/Termin%C3%A1lov%C3%BD-v%C3%BDstup-Javy</guid>
+    <description>Terminálový výstup Javy Tisk provede metoda System.out.print(); int i = 5; System.out.print(i); //vytiskne hodnotu 5 Pokud chceme vytisknout více proměnných nebo i nějaký řetězec ...</description>
+    <pubDate>Tue, 21 May 2024 21:54:10 GMT</pubDate>
   </item><item>
-    <title>Datové typy</title>
-    <link>https://xelatura.cz/PRG/Java/Datov%C3%A9-typy</link>
-    <guid>https://xelatura.cz/PRG/Java/Datov%C3%A9-typy</guid>
-    <description>Datové typy Javovské typy se dělí na dvě skupiny: Primitivní (neobjektový přístup) Celočíselné Reálné Znakové Logické Referenční (objektový přístup) Řetězce Primitivní datové ...</description>
-    <pubDate>Wed, 08 May 2024 10:48:41 GMT</pubDate>
+    <title>While cyklus Javy</title>
+    <link>https://xelatura.cz/PRG/Java/While-cyklus-Javy</link>
+    <guid>https://xelatura.cz/PRG/Java/While-cyklus-Javy</guid>
+    <description>While cyklus Javy Cykly mohou provádět blok kódu, dokud je splněna zadaná podmínka. Cykly jsou užitečné, protože šetří čas, snižují počet chyb a činí kód čitelnějším.</description>
+    <pubDate>Tue, 21 May 2024 21:54:10 GMT</pubDate>
   </item><item>
-    <title>Proměnné</title>
-    <link>https://xelatura.cz/PRG/Java/Prom%C4%9Bnn%C3%A9</link>
-    <guid>https://xelatura.cz/PRG/Java/Prom%C4%9Bnn%C3%A9</guid>
-    <description>Proměnné Proměnná je pojmenované místo v paměti Slouží k uchování hodnoty za běhu programu Každá proměnná má jméno a datový typ Pomocí jména se na proměnnou odkazujeme Datový typ ...</description>
-    <pubDate>Wed, 08 May 2024 10:47:50 GMT</pubDate>
+    <title>Assembler</title>
+    <link>https://xelatura.cz/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Assembler</link>
+    <guid>https://xelatura.cz/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Assembler</guid>
+    <description>Assembler Zkráceně označováno ASM Assembler = jazyk symbolických adres generace kódu Úzce svázaný se strojovým kódem Každá instrukce (kombinace 0 a 1) strojového kódu má odpovídající ...</description>
+    <pubDate>Tue, 21 May 2024 21:54:10 GMT</pubDate>
   </item><item>
-    <title>Konvence a syntaxe zápisu identifikátorů</title>
-    <link>https://xelatura.cz/PRG/Java/Konvence-a-syntaxe-z%C3%A1pisu-identifik%C3%A1tor%C5%AF</link>
-    <guid>https://xelatura.cz/PRG/Java/Konvence-a-syntaxe-z%C3%A1pisu-identifik%C3%A1tor%C5%AF</guid>
-    <description>Konvence a syntaxe zápisu identifikátorů Java důsledně rozlišuje malá a velká písmena! (case sensitive) Př. prvni.java není to samé jako Prvni.java identifikátor musí začínat písmenem, podtržítkem nebo $ (pozn.: ale poslední dvě jmenované nedoporučuji) Názvy nesmí obsahovat diakritiku a mezeru Pokud název tvoří více slov, začíná každé slovo velkým písmenem kvůli lepší čitelnosti Př.</description>
-    <pubDate>Wed, 08 May 2024 10:47:22 GMT</pubDate>
+    <title>Programovací jazyk</title>
+    <link>https://xelatura.cz/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Programovac%C3%AD-jazyk</link>
+    <guid>https://xelatura.cz/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Programovac%C3%AD-jazyk</guid>
+    <description>Programovací jazyk generace kódu Čísla jsou vnímána již jako proměnné, zdrojový kód připomíná matematický zápis → vysoká čitelnost kódu Jazyky dělené podle způsobu překladu a ...</description>
+    <pubDate>Tue, 21 May 2024 21:54:10 GMT</pubDate>
   </item><item>
-    <title>Info</title>
-    <link>https://xelatura.cz/DM/CSS/Info</link>
-    <guid>https://xelatura.cz/DM/CSS/Info</guid>
-    <description></description>
-    <pubDate>Tue, 07 May 2024 23:21:37 GMT</pubDate>
+    <title>Strojový kód</title>
+    <link>https://xelatura.cz/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Strojov%C3%BD-k%C3%B3d</link>
+    <guid>https://xelatura.cz/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Strojov%C3%BD-k%C3%B3d</guid>
+    <description>Strojový kód generace kódu tvoří nuly a jedničky - kombinace odpovídají různým instrukcím procesoru Procesor PC vykonává jen omezené množství jednoduchých instrukcí v podobě ...</description>
+    <pubDate>Tue, 21 May 2024 21:54:10 GMT</pubDate>
   </item><item>
-    <title>Barevný model</title>
-    <link>https://xelatura.cz/DM/Grafika/Barevn%C3%BD-model</link>
-    <guid>https://xelatura.cz/DM/Grafika/Barevn%C3%BD-model</guid>
-    <description>Barevný model Barevný model je matematický model popisující barvy na základě podílu jednotlivých složek, kterými mohou být vybrané základní barvy nebo jiné parametry ...</description>
-    <pubDate>Tue, 07 May 2024 23:21:37 GMT</pubDate>
+    <title>Syntax a sématika</title>
+    <link>https://xelatura.cz/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Syntax-a-s%C3%A9matika</link>
+    <guid>https://xelatura.cz/PRG/Z%C3%A1kladn%C3%AD-info-o-PRG/Syntax-a-s%C3%A9matika</guid>
+    <description>Syntaxe a sémantika jazyka Syntaxe Souhrn pravidel udávajících přípustné tvary dílčích konstrukcí a celého programu Jednodušší na odhalení → většina pokročilejších programovacích ...</description>
+    <pubDate>Tue, 21 May 2024 21:54:10 GMT</pubDate>
   </item><item>
-    <title>Grafické Formáty</title>
-    <link>https://xelatura.cz/DM/Grafika/Grafick%C3%A9-Form%C3%A1ty</link>
-    <guid>https://xelatura.cz/DM/Grafika/Grafick%C3%A9-Form%C3%A1ty</guid>
-    <description>Grafické formáty Grafické formáty stanovují pravidla, podle kterých je obrázek uložen v souboru. Některé formáty mohou do souboru ukládat i další informace, např.</description>
-    <pubDate>Tue, 07 May 2024 23:21:37 GMT</pubDate>
+    <title>For cyklus Javy</title>
+    <link>https://xelatura.cz/PRG/Java/For-cyklus-Javy</link>
+    <guid>https://xelatura.cz/PRG/Java/For-cyklus-Javy</guid>
+    <description>Cyklus For Javy Pokud přesně víte, kolikrát chcete projít blok kódu, použijte místo cyklu while cyklus for: Syntaxe for (příkaz 1; příkaz 2; příkaz 3) { // blok kódu, který se má provést ...</description>
+    <pubDate>Tue, 21 May 2024 21:54:10 GMT</pubDate>
   </item><item>
-    <title>Pixel</title>
-    <link>https://xelatura.cz/DM/Grafika/Pixel</link>
-    <guid>https://xelatura.cz/DM/Grafika/Pixel</guid>
-    <description>Pixel picture element Představuje jeden svítící bod na monitoru, resp. jeden bod obrázku, charakterizovaný jasem a barvou, např. ve formátu RGB či CMYK.</description>
-    <pubDate>Tue, 07 May 2024 23:21:37 GMT</pubDate>
+    <title>For-Each cyklus Javy</title>
+    <link>https://xelatura.cz/PRG/Java/For-Each-cyklus-Javy</link>
+    <guid>https://xelatura.cz/PRG/Java/For-Each-cyklus-Javy</guid>
+    <description>For-Each cyklus Javy Existuje smyčka “for-each”, která se používá výhradně k procházení prvků v poli: Syntaxe for (typ variableName : arrayName) { // blok kódu, který se provede ...</description>
+    <pubDate>Tue, 21 May 2024 21:54:10 GMT</pubDate>
   </item>
     </channel>
   </rss>
